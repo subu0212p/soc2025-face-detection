@@ -1,0 +1,21 @@
+📌 Python Basics:
+Code With Harry - 100 Days of Python:
+https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg
+
+📌 NumPy:
+https://numpy.org/doc/stable/user/absolute_beginners.html
+https://www.youtube.com/watch?v=awP79Yb3NaU
+
+📌 Pandas:
+https://www.w3schools.com/python/pandas/default.asp
+https://www.youtube.com/watch?v=JjuLJ3Sb_9U
+
+📌 Matplotlib:
+https://www.w3schools.com/python/matplotlib_intro.asp
+https://www.youtube.com/watch?v=9GvnrQv138s
+
+📌 TensorFlow Intro:
+https://www.tensorflow.org/tutorials/quickstart/beginner
+
+📌 Siamese Network Concept:
+https://www.youtube.com/watch?v=F2-W1CqHizA
