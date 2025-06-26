@@ -1,0 +1,9 @@
+# Key Concepts Learned So Far
+
+- NumPy: arrays, shape, broadcasting, matrix ops
+- Pandas: DataFrames, filtering, adding columns
+- Matplotlib: plot(), bar(), labels, grid
+- TensorFlow: layers, models, input shapes
+- Siamese Network: twin subnetworks, shared weights, distance-based comparison
+
+Main idea: Use deep learning to compare two face images and check if they belong to the same person.
